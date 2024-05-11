@@ -1,1 +1,1 @@
-# fack_news_-detection-intern-twd
+# fake_news_-detection-intern-twd
